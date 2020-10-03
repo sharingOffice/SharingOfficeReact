@@ -1,8 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-
-# <a href="https://younos1986.github.io/react-ybm-admin/"> Demo home page </a>
-
 ## Available Scripts
 
 In the project directory, you can run:
